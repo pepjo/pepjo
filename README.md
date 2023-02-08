@@ -15,5 +15,5 @@ While -so far- I've mostly remained in the high-level software world, I **would 
 learn more about electronics and low-level microcontrollers**. So far, I've only dabbled
 into it through two of **my hobbies: maintaining my smarthome and freestyle FPV drones**.
 
-You might read more about me on my website [pep.rodeja.me](https://pep.rodeja.me).
+You may want to read more about me on my website [pep.rodeja.me](https://pep.rodeja.me).
 Hopefully, one day, I will also publish some new blog posts about random interesting topics.
