@@ -16,4 +16,4 @@ learn more about electronics and low-level microcontrollers**. So far, I've only
 into it through two of **my hobbies: maintaining my smarthome and freestyle FPV drones**.
 
 You may want to read more about me on my website [pep.rodeja.me](https://pep.rodeja.me).
-Hopefully, one day, I will also publish some new blog posts about random interesting topics.
+Hopefully, one day, I will publish a new blog posts about some random interesting topic.
